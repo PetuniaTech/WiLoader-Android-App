@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\.android\build-cache\61f3c4432d8b5ad32818b799a2f0bb3d3954fe98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\classes_90e789dd9ac8fda4a163db1152fd6307c753e067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\.android\build-cache\556d0601db3528806516081f34e31013644c0722\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\classes_bde07325c5d0f9e411a9316023cbbe1b3c493bff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\.android\build-cache\6e2e30de2f5013a56b5adfb5dc5d2cf77d339caf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\classes_1f96e16b31c64e7edc1b9e06a8a1ec4b47709d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\.android\build-cache\61f3c4432d8b5ad32818b799a2f0bb3d3954fe98\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_12c2f20c48c775b43b4c5db709dc4fbe8471dd56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\.android\build-cache\b6082c4a3fe8de5765dfc911883999512c22717c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\classes_dc1690a964c969ecb85bd21b324ccbd22d28efd4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ccd20c9e0bd2cd10a0f493df1d434447ce8f3d6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_9b1b46a3bc8e7395407557951b42726f658a95d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\.android\build-cache\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\classes_29dfa425b75f0c2703143071ebe102817ae5e89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\.android\build-cache\487e7d544367298c48cab8a0c79279feef11eb96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\classes_8b3cc838f67d8b7324fc7e8df863fd5ad28170d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\.android\build-cache\315f2aa850c974c577f08d308f068c0e7d5f7255\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\classes_b929bbbcaf344e83503c5910f8396d8edcd80b49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alireza\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3c61a85652ccf3684bf15d359c18d1439dd011e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e47597c09d338a1cc7c6eecc62757b06f528a34c">
+        <dex dex="D:\WiLoader\AndroidApp\WiLoader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_671752b9d8f770961f3fafff873884d8d69770d8\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,88 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:7:22-73
+application
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Alireza\.android\build-cache\556d0601db3528806516081f34e31013644c0722\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Alireza\.android\build-cache\b6082c4a3fe8de5765dfc911883999512c22717c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Alireza\.android\build-cache\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Alireza\.android\build-cache\6e2e30de2f5013a56b5adfb5dc5d2cf77d339caf\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Alireza\.android\build-cache\487e7d544367298c48cab8a0c79279feef11eb96\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Alireza\.android\build-cache\61f3c4432d8b5ad32818b799a2f0bb3d3954fe98\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.petuniatech.wiloader.main.MainActivity
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:16:13-74
+	android:theme
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:17:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.petuniatech.wiloader.main.WiLoaderActivity
+ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:configChanges
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml:29:13-50
+uses-sdk
+INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Alireza\.android\build-cache\556d0601db3528806516081f34e31013644c0722\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:23.4.0] C:\Users\Alireza\.android\build-cache\b6082c4a3fe8de5765dfc911883999512c22717c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Alireza\.android\build-cache\315f2aa850c974c577f08d308f068c0e7d5f7255\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Alireza\.android\build-cache\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Alireza\.android\build-cache\6e2e30de2f5013a56b5adfb5dc5d2cf77d339caf\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Alireza\.android\build-cache\487e7d544367298c48cab8a0c79279feef11eb96\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Alireza\.android\build-cache\61f3c4432d8b5ad32818b799a2f0bb3d3954fe98\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Alireza\.android\build-cache\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WiLoader\AndroidApp\WiLoader\app\src\main\AndroidManifest.xml

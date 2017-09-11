@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spacer.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\drawable\\spacer.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\b6082c4a3fe8de5765dfc911883999512c22717c\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\in_message_bg.9.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\drawable\\in_message_bg.9.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\out_message_bg.9.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\drawable\\out_message_bg.9.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Alireza\\.android\\build-cache\\b6082c4a3fe8de5765dfc911883999512c22717c\\output\\res\\drawable\\design_fab_background.xml"
+    }
+]

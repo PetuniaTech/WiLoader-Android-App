@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Alireza\\.android\\build-cache\\4e2b084d5315e8f14b4a83c75538f8c0c2cda87d\\output\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]

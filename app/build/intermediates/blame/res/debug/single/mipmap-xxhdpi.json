@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\send_progress_icon.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\send_progress_icon.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo_red.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_red.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\stop_icon.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\stop_icon.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\clear_icon.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\clear_icon.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\send_icon.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\send_icon.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\start_icon.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\start_icon.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\restart_icon.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\restart_icon.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo_green.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_green.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo_yellow.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_yellow.png"
+    },
+    {
+        "merged": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo_blue.png",
+        "source": "D:\\WiLoader\\AndroidApp\\WiLoader\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_blue.png"
+    }
+]
