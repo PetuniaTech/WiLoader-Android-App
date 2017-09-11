@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:padding="6dip">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="6dp"
+        android:layout_marginEnd="6dp"
+        android:contentDescription="LOGO"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/IP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/icon"
+        android:layout_toEndOf="@id/icon"
+        android:gravity="center_vertical"
+        android:ellipsize="marquee"
+        android:maxLines="1"
+        android:text="IP"
+        android:textColor="@color/myBlue"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/IP"
+        android:layout_alignParentTop="true"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_toRightOf="@id/icon"
+        android:layout_toEndOf="@id/icon"
+        android:gravity="center_vertical"
+        android:maxLines="1"
+        android:text="Name"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="16sp" />
+
+
+
+    <TextView
+        android:id="@+id/RSSI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginEnd="20dp"
+        android:gravity="center_vertical"
+        android:maxLines="1"
+        android:text="rssi"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/targetVoltage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_toLeftOf="@id/RSSI"
+        android:layout_toStartOf="@id/RSSI"
+        android:gravity="center_vertical"
+        android:text="5.0v"
+        android:textColor="@android:color/holo_purple"
+        android:textSize="10sp" />
+
+</RelativeLayout>

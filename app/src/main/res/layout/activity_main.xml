@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    tools:context="com.petuniatech.wiloader.main.MainActivity"
+
+android:weightSum="1"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:enabled="true"
+            android:fontFamily="serif-monospace"
+            android:text="@string/WiLoaders"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimary"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <ProgressBar
+            android:id="@+id/scanProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/textView"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toRightOf="@id/textView"
+            android:layout_toEndOf="@id/textView"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/WiLoaderList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fastScrollAlwaysVisible="false"
+        android:fastScrollEnabled="true"></ListView>
+
+</LinearLayout>

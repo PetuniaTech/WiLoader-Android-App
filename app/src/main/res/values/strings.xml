@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WiLoader</string>
+    <string name="action_info">Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="WiLoaders">ONLINE WILOADERS</string>
+</resources>
